@@ -1,5 +1,36 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = "alesgar's blog"
+title = "alesgar's Digital Cockpit"
 theme = "m10c"
-author = "alesgar"
+
+[params]
+  author = 'alesgar'
+  description = 'A blog about Linux, virtualization, and automotive. My journey.'
+  avatar = 'NOTSUREIF.jpg'
+  menu_item_separator = '|'
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 100
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 200
+
+[[params.social]]
+  icon = 'github'
+  name = 'github'
+  url = 'https://github.com/alesgar-rh'
+
+[[params.social]]
+  icon = 'linkedin'
+  name = 'linkedin'
+  url = 'https://www.linkedin.com/in/alesgar/'
