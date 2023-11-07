@@ -28,7 +28,7 @@ theme = "m10c"
 [[params.social]]
   icon = 'github'
   name = 'github'
-  url = 'https://github.com/alesgar-rh'
+  url = 'https://github.com/aesteve-rh'
 
 [[params.social]]
   icon = 'linkedin'
