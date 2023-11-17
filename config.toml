@@ -6,7 +6,6 @@ theme = "m10c"
 [params]
   author = 'alesgar'
   description = 'A blog about Linux, virtualization, and automotive. My journey.'
-  avatar = 'NOTSUREIF.jpg'
   menu_item_separator = '|'
 
 [taxonomies]
@@ -16,7 +15,7 @@ theme = "m10c"
 [[menu.main]]
   identifier = "posts"
   name = "Posts"
-  url = "/posts/"
+  url = "posts/"
   weight = 100
 
 [[menu.main]]
