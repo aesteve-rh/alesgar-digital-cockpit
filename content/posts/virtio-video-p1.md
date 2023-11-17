@@ -41,7 +41,7 @@ implementations, or, as in this case, those for which specification is still
 under discussion. So after all of this was agreed on, was just a matter of time
 we got it upstreamed and available for the community.
 
-![Video meme](/img/video-meme.jpg)
+![Video meme](/alesgar-digital-cockpit/img/video-meme.jpg)
 
 Nonetheless, we opted to work with version 3 of the specification [patch](https://drive.google.com/file/d/1jOsS2WdVhL4PpcWLO8Zukq5J0fXDiWn-/view), which is already available in some
 out-of-tree kernels, as [ChromeOS](https://github.com/OpenSynergy/android-kernel-common/tree/opsy/android11-5.4-trout/drivers/media/virtio)
